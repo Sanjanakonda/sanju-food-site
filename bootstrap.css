@@ -1,0 +1,270 @@
+.body{
+    font-family: "Montserrat";
+
+}
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+    min-width: 200px;
+   
+}
+.navbar{
+    
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.jumbotron,h1{
+    font-weight: 900;
+    font-size: 20%;
+}
+h4{
+     font-weight: bold; 
+}
+.jumbotron{
+    font-size: 200px;
+
+}
+.firstpic{
+    height:400px;
+    width:550px;
+}
+.icon{
+    color: #dc3545;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+
+}
+#test{
+
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-weight: 900;
+    color: #fff;
+    background-color: #dc3545;    
+}
+.jumbotron,h1{
+    padding-top: 2rem;
+    font-size: 70px;
+    margin-bottom: 2rem;
+    font-family: fantac; 
+}
+.jumbotron,p{
+    font-size: 60px;
+    text-align: 30px;
+
+
+        
+}
+img{
+    padding-left: 1px;
+}
+
+   
+
+.jumbotron,button{
+    padding-left: 150px;
+    padding-block-end: center;
+}
+.container-fluid{
+    padding: top;
+    
+}
+nav{
+    padding: top;
+}
+.navbar-brand{
+     font-size: 25px;
+     font-weight: bold;
+     padding-left: 50px;
+
+}
+.nav-item{
+    padding: 0% 18px;
+
+}
+.nav-link{
+    font-size: 1.3rem;
+    font-family: "montserrat-Light";
+    font-weight: bold;
+
+}
+#title-img {
+    width: 60%;
+    transform: rotate(45deg);
+    position: absolute;
+}
+    
+
+    
+#info{
+     padding-right: 20px;
+    padding: 7% 15%;
+    position: relative;
+    z-index: 30;
+}
+.first-box{
+    text-align: center;
+    padding: 5%;
+
+}
+.first-box,p{
+    font-size: 18px;
+}
+.test-image{
+    width: 50%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-control-prev{
+    height: auto;
+    width: auto;
+}
+.firstpic{
+    border-radius: 100%;
+}
+.menu{
+    align-items: center;
+  
+}
+.card{
+    padding-top: 10%;
+
+}
+.card-img-top{
+    height: 45%;
+   
+}
+#menu,h2{
+    text-align: center;
+    font-family: "Sofia";
+    color: black;
+    font-weight: bold;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    font-size: 5%;
+}
+.pricing-column{
+   padding: 3% 2%;
+
+}
+#menu{
+    padding: 80px;
+    align-items: center;
+   
+}
+.card{
+    size: 8%;
+}
+#ending{
+    background-color: #dc3545;
+    color: #fff;
+    padding: 7% 15%;
+}
+.endpart{
+    font-family: "Montserrat-bold";
+    font-size: 3.5rem;
+    text-align: center;
+    width: 100%;
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+    display: block;
+}
+.input-group{
+    width: 100%;
+    text-align: left;
+    margin-right: 0;
+    margin-left: 0;
+    display: block;
+    padding: 2%;
+    margin: 5%;
+}
+#ending.input[type]{
+    padding-left: 10%;
+  
+}
+.input-group{
+    padding-left: 38%;
+    margin-top: 7%;
+    width: 4.5rem;
+}
+#footer{
+    padding: 12% 15%;
+    text-align: center;
+    color: grey;
+}
+   
+.footer,i{
+    margin: 5px;
+}
+@media only screen and (max-width:500px){
+    .firstpic{
+        width: 250px;
+        height: 200px;
+
+    }
+    .jumbotron {
+        font-size: 5px;
+        text-align: center;
+        padding: 3%;
+    }
+    .jumbotron button{
+        margin: 10px;
+       
+    }
+    #test h1{
+        font-size: 20px;
+    }
+    #test p{
+        font-size: 8px;
+    }
+    #menu h2{
+        font-size: 12px;
+        font-weight: 900;
+    }
+    #menu .card{
+      margin-left: 25px;
+      text-align: center;
+       
+    }
+    #ending{
+        font-size: 1px;
+     
+    }
+    #ending h1{
+        font-size: 20px;
+
+    }
+    #footer {
+        font-size: 5px;
+    }
+    #footer p{
+        font-size: 10px;
+    }
+}
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
